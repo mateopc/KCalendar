@@ -1,5 +1,5 @@
 # KCalendar
-Python program which adds events corresponding to the upcoming Karmine Corp LoL games to a specified GCalendar.
+Python program which adds events corresponding to the upcoming Karmine Corp LoL matches to a specified GCalendar.
 
 # How to use it ?
 ## Prerequisites
@@ -14,3 +14,11 @@ To run this script, you need the following prerequisites:
   - A Google account with Google Calendar enabled.
 - For the [Leaguepedia API](https://lol.fandom.com/wiki/Help:Leaguepedia_API)
   - [mwclient](https://mwclient.readthedocs.io/en/latest/user/index.html): Lightweight python client
+
+## Setting up
+In 3 steps:
+1. Add your credentials.json file in the same folder as KCalendar.py
+2. Run the script for the first time to link your Google Account.
+3. Go to your task scheduler (Windows) and add a recurring run of your script. To learn how to do it, refer to [this video](https://www.youtube.com/watch?v=4n2fC97MNac&t=441s)
+
+That's it :)
