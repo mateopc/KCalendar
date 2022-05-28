@@ -9,7 +9,7 @@ To run this script, you need the following prerequisites:
   - Python 2.6 or greater
   - The [pip](https://pypi.python.org/pypi/pip) package management tool
   - A Google Cloud Platform project with the API enabled. To create a project and enable an API, refer to [Create a project and enable the API](https://developers.google.com/workspace/guides/create-project)
-      Note: For this script, you are enabling the "Google Calendar API"
+        Note: For this script, you are enabling the "Google Calendar API"
   - Authorization credentials for a desktop application. To learn how to create credentials for a desktop application, refer to [Create credentials](https://developers.google.com/workspace/guides/create-credentials)
   - A Google account with Google Calendar enabled
 - For the [Leaguepedia API](https://lol.fandom.com/wiki/Help:Leaguepedia_API)
